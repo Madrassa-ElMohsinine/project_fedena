@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+ruby '3.2.2'
+gem 'bundler', '>= 2.4.0'
 gem 'i18n', '~> 0.4.2'
 # gem "searchlogic", "~> 2.3.5"
 gem 'wicked_pdf', "0.9.1"
